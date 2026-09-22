@@ -1,6 +1,6 @@
 # Bossuet Pets · Preview de catálogo
 
-Catálogo digital de muestra con formato editorial tipo revista, pensado para presentar una renovación visual de la tienda Bossuet PETS. Incluye navegación por secciones, productos de ejemplo, packs mayoristas y carrito demostrativo.
+Catálogo digital de muestra con formato editorial tipo revista. Incluye menú fijo horizontal, secciones navegables de descanso y ropa, productos de ejemplo, packs mayoristas, microinteracciones de hover y carrito demostrativo.
 
 ## Deploy en Vercel
 
@@ -8,4 +8,4 @@ Catálogo digital de muestra con formato editorial tipo revista, pensado para pr
 2. Seleccioná **Framework Preset: Other** y **Root Directory: `.`**.
 3. No hace falta configurar comandos de build: Vercel sirve `index.html` desde la raíz.
 
-Los productos usan fotografías públicas del catálogo Bossuet. Los precios y promociones visibles son ilustrativos, no vigentes.
+Las fotografías son referencias públicas del catálogo Bossuet. Los precios, packs y promociones son ilustrativos, no vigentes.
