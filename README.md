@@ -1,8 +1,6 @@
-# Bossuet Pets · Preview de catálogo
+# Bossuet Pets · Combo Primavera x12
 
-Catálogo digital de muestra con navegación fija, formato editorial tipo revista, interacciones hover y carrito demostrativo. El **Combo Primavera x12** ya refleja los datos transcritos de la ficha real enviada: composición, medidas, precio de $292.800 y precio anterior de $325.320. Las fotografías del pack son recortes del material original.
-
-Los demás productos y sus precios siguen siendo referencias de preview y se irán sustituyendo por fichas reales.
+Preview de catálogo centrado únicamente en el Combo Primavera mayorista. Incluye la imagen original completa, desglose codificado de las 12 piezas y sus medidas, precio de la ficha, selección visual de talles, hover y carrito. Paleta: #6c1727, #f3eee6 y #000000.
 
 ## Deploy en Vercel
 
