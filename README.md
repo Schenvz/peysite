@@ -1,11 +1,11 @@
-# ALMA · Catálogo íntimo
+# Bossuet Pets · Preview de catálogo
 
-Preview estática de un catálogo editorial interactivo para lencería. No requiere instalación ni build: Vercel puede publicar el directorio raíz directamente.
+Catálogo digital de muestra con formato editorial tipo revista, pensado para presentar una renovación visual de la tienda Bossuet PETS. Incluye navegación por secciones, productos de ejemplo, packs mayoristas y carrito demostrativo.
 
 ## Deploy en Vercel
 
 1. Importá este repositorio en Vercel.
-2. Dejá **Framework Preset** en `Other` y **Root Directory** en `.`.
-3. No configures comandos de build. El archivo `index.html` se sirve como página principal.
+2. Seleccioná **Framework Preset: Other** y **Root Directory: `.`**.
+3. No hace falta configurar comandos de build: Vercel sirve `index.html` desde la raíz.
 
-La versión de muestra vive también en `outputs/index.html`.
+Los productos usan fotografías públicas del catálogo Bossuet. Los precios y promociones visibles son ilustrativos, no vigentes.
